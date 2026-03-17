@@ -1,0 +1,5 @@
+names:
+  0: license_plate
+nc: 1
+train: /content/drive/MyDrive/License-Plate/License-Plate-Data/train
+val: /content/drive/MyDrive/License-Plate/License-Plate-Data/test
