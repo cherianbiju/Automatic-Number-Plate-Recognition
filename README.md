@@ -1,6 +1,6 @@
-# 🚗 Automatic Number Plate Recognition (ANPR)
+# 🚗 Automatic Number Plate Recognition
 
-An AI-powered **Automatic Number Plate Recognition (ANPR)** system that
+An AI-powered **Automatic Number Plate Recognition system that
 detects vehicle number plates from images, extracts the plate text using
 OCR, and matches it with a database. The project includes an interactive
 web interface built with Streamlit.
@@ -24,13 +24,6 @@ web interface built with Streamlit.
 -   Tesseract OCR -- Text extraction
 -   Streamlit -- Web interface
 -   Pandas -- Data handling
-
-------------------------------------------------------------------------
-
-## 📁 Project Structure
-
-Automatic-Number-Plate-Recognition/ │── app.py │── detect.py │──
-data.csv │── requirements.txt │── .gitignore │── License-Plate-Data/
 
 ------------------------------------------------------------------------
 
