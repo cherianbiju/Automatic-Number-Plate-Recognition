@@ -9,8 +9,9 @@ web interface built with Streamlit.
 
 ## 🔥 Features
 
+-   finetuned yolov8s
 -   Upload vehicle images
--   Detect number plates using YOLOv8
+-   Detect number plates using YOLOv8s
 -   Extract text using Tesseract OCR
 -   Match plate number with stored database (CSV)
 -   Simple and interactive Streamlit UI
@@ -32,4 +33,6 @@ web interface built with Streamlit.
 -   Install Tesseract OCR
 -   Update path if needed
 -   Model weights (.pt) not included
+
+
 
