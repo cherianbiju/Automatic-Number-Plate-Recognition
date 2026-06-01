@@ -67,16 +67,16 @@ Streamlit UI → Displays results
 
 ## 6. How to Run
 
-**6.1. Install dependencies:**
+**6.1. Install dependencies**
 ```bash
 pip install ultralytics opencv-python pytesseract streamlit pandas
 ```
 
-**6.2. — Install Tesseract OCR:**
+**6.2. Install Tesseract OCR**
 
 Download from https://github.com/UB-Mannheim/tesseract/wiki
 
-**6.3. Run the app:**
+**6.3. Run the app**
 ```bash
 streamlit run app.py
 ```
