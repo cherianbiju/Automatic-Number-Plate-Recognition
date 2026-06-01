@@ -80,9 +80,6 @@ Download from https://github.com/UB-Mannheim/tesseract/wiki
 ```bash
 streamlit run app.py
 ```
-
-**6.4. Open browser:**
-
 ---
 
 ## 7. Database Format
@@ -91,8 +88,6 @@ The `data.csv` file should have these columns:
 
 ```csv
 plate,name,phone
-KL01AB1234,John Doe,9876543210
-KL02CD5678,Jane Smith,9123456789
 ```
 
 ---
@@ -108,6 +103,6 @@ KL02CD5678,Jane Smith,9123456789
 ---
 
 ## 9. Demo Video
-👉 [Watch Demo Video](https://drive.google.com/file/d/1vKTBSquQ0CpKTomtNYWEev850A2hwavL/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/1vKTBSquQ0CpKTomtNYWEev850A2hwavL/view?usp=drive_link)
 
 ---
