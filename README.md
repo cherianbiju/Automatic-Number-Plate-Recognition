@@ -92,17 +92,7 @@ plate,name,phone
 
 ---
 
-## 8. Features
-
-- ✅ Upload any car image (JPG, PNG, JPEG)
-- ✅ Auto detects and crops number plate
-- ✅ Reads plate text using OCR
-- ✅ Looks up owner from database
-- ✅ Clean two-column layout
-
----
-
-## 9. Demo Video
+## 8. Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1vKTBSquQ0CpKTomtNYWEev850A2hwavL/view?usp=drive_link)
 
 ---
